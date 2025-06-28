@@ -1,0 +1,511 @@
+﻿1. Which one of the following would not be considered as a form of secondary storage?
+(a) Floppy Disk 
+(b) Optical Disk 
+(c) RAM 
+(d) Flash Drive 
+(e) Hard Disk 
+(c)
+
+2. The Processor is an example of computer–
+(a) Software 
+(b) Output Unit 
+(c) Storage 
+(d) Program 
+(e) Hardware 
+(e)
+
+3. A hexadecimal number is a number to the base–
+(a) 2 
+(b) 20 
+(c) 16 
+(d) 4 
+(e) 8 
+(c)
+
+4. Java in computer programming is a–
+(a) Compiler 
+(b) Hardware Device Driver 
+(c) Low-level Language
+(d) High-level Language 
+(e) Programming Mid-level Language 
+(d)
+
+5. Which of the following is not a binary number?
+(a) 01010 
+(b) 11111 
+(c) 31121 
+(d) 00000 
+(e) 110110 
+(c)
+
+6. What does the acronym WAN stand for?
+(a) Widest Area Network 
+(b) Wild Area Network 
+(c) Wide Area Networking
+(d) Wide Area. Network 
+(e) Wider Area Network 
+(d)
+
+7. FTP is an acronym for–
+(a) File Transaction Protocol 
+(b) File Truncation Protocol 
+(c) File Translation Protocol
+(d) File Transfer Protocol 
+(e) File Transmission Protocol 
+(d)
+
+8. Connections to the Internet using a phone line and a modem are called….. connections.
+(a) Digital 
+(b) Dial-up 
+(c) Broadband 
+(d) Dish 
+(e) Both (b) and (c) 
+(b)
+
+9. Documents converted to….. can be published to the web.
+(a) A doc file 
+(b) HTTP 
+(c) machine language 
+(d) HTML 
+(e) None of these 
+(b)
+
+10. What is extension of Microsoft Word document?
+(a) txt 
+(b) doc 
+(c) ppt 
+(d) xls 
+(e) psd 
+(b)
+
+11. Outlook Express is a(n)–
+(a) protocol 
+(b) Search Engine 
+(c) Browser 
+(d) Network 
+(e) E-mail Client 
+(e)
+
+12. Printers and screens in computer system are common form of–
+(a) Processing device 
+(b) Computation units 
+(c) Input units
+(d) Storage units 
+(e) Output units 
+(e)
+
+13. LSI in chip technology stands for–
+(a) Large-Scale Internet 
+(b) Low-Scale Integration 
+(c) Low-Scale Internet
+(d) Local-Scale Integration 
+(e) Large-Scale Integration 
+(e)
+
+14. Ctrl + n in MS word is used to–
+(a) Save document 
+(b) Start Paragraph 
+(c) Open new document
+(d) Close document 
+(e) Open a saved document 
+(c)
+
+15. Connections to other documents or to other locations within a website is known as–
+(a) Hyper connects 
+(b) Plug-ins 
+(c) Hyperlinks 
+(d) Filters 
+(e) Bots 
+(c)
+
+16. Checking whether a program functions correctly and then correcting errors, it is known as–
+(a) Error-proofing a program 
+(b) Default error-checking 
+(c) De-erroring
+(d) Debugging 
+(e) Decoding 
+(d)
+
+17. Single-word reference to viruses, worms etc. is–
+(a) harmware 
+(b) virus 
+(c) phish 
+(d) malware 
+(e) killer war 
+(d)
+
+18. Converting the computer language of 1’s and 0’s to characters, that can be understood is known as…...
+(a) Selecting 
+(b) Creating clip-art 
+(c) Decoding 
+(d) Generating 
+(e) Highlighting 
+(c)
+
+19. Storage that returns its data after the power is turned off is referred’ to as–
+(a) Sequential storage 
+(b) Direct storage 
+(c) Non-destructive storage
+(d) Non-volatile storage 
+(e) Volatile storage 
+(d)
+
+20. A compiler in computing means–
+(a) A programmer. 
+(b) A person who compiles source program. 
+(c) Keypunch operator
+(d) A gaming software 
+(e) A program which translates source program into object program 
+(e)
+
+21. What is Windows Vista?
+(a) Processor 
+(b) Output Device 
+(c) Storage Device
+(d) Input Device 
+(e) Operating System 
+(e)
+
+22. Which of the following is not an operating system used in computer?
+(a) Windows 95 
+(b) Windows 2000 
+(c) MS-DOS
+(d) Windows 3.1 
+(e) Windows 98 
+(d)
+
+23. “DTP” is a computer abbreviation usually means–
+(a) Digital Transmission Protocol 
+(b) Desktop Publishing 
+(c) Document Type Processing
+(d) Document Transfer Processing 
+(e) Data Type Programming 
+(b)
+
+24. Which of the following is equivalent roughly to 1 billion bytes?
+(a) One kilobyte 
+(b) One Terabyte 
+(c) One Gigabyte
+(d) One Megabyte 
+(e) One Megabit 
+(c)
+
+25. The ALU and Control unit, jointly is known as–
+(a) RAM 
+(b) CPU 
+(c) PC 
+(d) EPROM 
+(e) ROM 
+(b)
+
+26. The….. port resembles a standard phone jack.
+(a) Fire wire 
+(b) modem 
+(c) peripheral 
+(d) serial 
+(e) None of these 
+(b)
+
+27. The ALU performs….. operations.
+(a) arithmetic 
+(b) ASCII 
+(c) algorithm-based 
+(d) logarithm-based 
+(e) None of above 
+(a)
+
+28. A group of related records in a database is called a(n)–
+(a) object 
+(b) memo 
+(c) table 
+(d) record 
+(e) None of these 
+(c)
+
+29. What is the generation of computers which are built with microprocessors?
+(a) third 
+(b) fourth 
+(c) first 
+(d) second 
+(e) prior to first 
+(b)
+
+30. The digital telecommunication term ISDN is an abbreviation for
+(a) Internet Services Data Network 
+(b) International Services Digital Network
+(c) Integrated Services Digital Network 
+(d) Interactive Standard Dynamic Networks
+(e) Integrated Standard Digital Networks 
+(c)
+
+31. How to specify cell range from A10 to A 25 in MS Excel?
+(a) (A10-A25) 
+(b) (A10 to A25) 
+(c) (A10 : A25) 
+(d) (A10 . A25) 
+(e) (A10 A25) 
+(c)
+
+32. If you change Windows 98 operating system to Windows XP, then it is known as–
+(a) Update 
+(b) Patch 
+(c) Pull down 
+(d) Push up 
+(e) Upgrade 
+(e)
+
+33. ALU and control unit of most of the computers are combined and are embedded on a single .
+(a) Monochip 
+(b) Control unit 
+(c) Microprocessor 
+(d) ALU 
+(e) Microfilm 
+(c)
+
+34. QWERTY is used with reference to–
+(a) Printer 
+(b) Monitor 
+(c) Keyboard 
+(d) Mouse 
+(e) Joystick 
+(c)
+
+35. Where does most data go first with’ in a computer memory hierarchy?
+(a) RAM 
+(b) ROM 
+(c) BIOS 
+(d) CACHE 
+(e) None of these 
+(a)
+
+36. A result of a computer virus can not lead to–
+(a) Disk Crash 
+(b) Mother Board Crash 
+(c) Corruption of program
+(d) Deletion of files 
+(e) None of above 
+(b)
+
+37. Which of the following extensions suggest that the file is a backup copy–
+(a) Bak 
+(b) Bas 
+(c) Com 
+(d) Txt 
+(e) None of these 
+(a)
+
+38. Which of the following storage media provides sequential access only?
+(a) Floppy disk 
+(b) Magnetic disk 
+(c) Magnetic tape 
+(d) Optical disk 
+(e) None of above 
+(a)
+
+39. The….. becomes different shapes depending on the task you are performing.
+(a) Active tab 
+(b) Insertion point 
+(c) Mouse pointer 
+(d) Ribbon 
+(e) None of above 
+(c)
+
+40. Any data or instruction entered into the memory of a computer is considered as–
+(A) storage 
+(B) output 
+(C) input 
+(D) information 
+(E) None of these 
+(A)
+
+41. One of the methods for Market Monitoring is–
+(A) to watch TV serials 
+(B) to discuss with other sales persons
+(C) to monitor media outlets 
+(D) All of these 
+(E) None of these 
+(C)
+
+42. Sources of Sales Leads are–
+(A) Data Mining 
+(B) Market Research 
+(C) Media Outlets
+(D) Promotional Programs 
+(E) All of these 
+(E)
+
+43. Promotion in Marketing means–
+(A) passing an examination 
+(B) elevation from one grade to another
+(C) selling the products through various means 
+(D) selling the product in specific areas
+(E) All of these 
+(C)
+
+44. The Target Group for Education Loans is–
+(A) All colleges 
+(B) all parents 
+(C) research scholars
+(D) meritorious students seeking higher education 
+(E) all of these 
+(D)
+
+45. How many different documents can you have open at any one time ?
+(A) Not more than three 
+(B) Only one 
+(C) As many as your computer memory will hold
+(D) No more than your Taskbar can display 
+(E) None of these 
+(D)
+
+46. A ‘Target Group’ means–
+(A) a group of sellers 
+(B) a group of buyers 
+(C) a group of products
+(D) a group of persons to whom sales should be focused 
+(E) All of these 
+(D)
+
+47. Market Segmentation means–
+(A) segmenting the salesmen 
+(B) segmenting the employees
+(C) segmenting the customers as per their needs
+(D) segmenting the products 
+(E) All of these 
+(C)
+
+48. Value-added services mean–
+(A) Additional cost 
+(B) Additional production 
+(C) Additional staff
+(D) Additional services 
+(E) All of these 
+(D)
+
+49. Marketing channels mean–
+(A) Delivery time 
+(B) Delivery period 
+(C) Sales outlets
+(D) Purchase outlets 
+(E) All of these 
+(C)
+
+50. Good selling skill calls for–
+(A) Patience 
+(B) Perseverance 
+(C) Persuasion
+(D) Pursuit 
+(E) All of these 
+(E)
+
+51. To ‘‘close a call’’ means–
+(A) To clinch the sales 
+(B) To abandon the sales 
+(C) To lose the business
+(D) To annoy the customer 
+(E) To exit from the sales team 
+(A)
+
+52. To make the number pad act as directional arrows, you press the ............ key.
+(A) shift 
+(B) arrow lock 
+(C) num lock 
+(D) caps lock 
+(E) None of these 
+(C)
+
+53. You use a (n) ....... such as a keyboard or mouse, to input information.
+(A) storage device 
+(B) processing device 
+(C) input device
+(D) output device 
+(E) None of these 
+(C)
+
+54. ............ allows voice conversations to travel over the Internet.
+(A) Internet telephony 
+(B) Instant messaging 
+(C) E-mail
+(D) E-commerce 
+(E) None of these 
+(A)
+
+55. Which of the following is not true about computer files ?
+(A) They are collections of data saved to a storage medium
+(B) Every file has a file name
+(C) A file extension is established by the user to indicate the file’s contents
+(D) All files contain data 
+(E) None of these 
+(C)
+
+56. To move to the beginning of a line of text, press the ............ key.
+(A) pageup 
+(B) a 
+(C) home 
+(D) enter 
+(E) None of these 
+(C)
+
+57. The contents of ............ are lost when the computer turns off.
+(A) storage 
+(B) input 
+(C) output 
+(D) memory 
+(E) None of these 
+(D)
+
+58. When you turn on the computer, the boot routine will perform this test–
+(A) RAM test 
+(B) disk drive test 
+(C) memory test
+(D) power-on self-test 
+(E) None of these 
+(B)
+
+59. When you save to this, your data will remain intact even when the computer is turned off–
+(A) RAM 
+(B) motherboard 
+(C) secondary storage device
+(D) primary storage device 
+(E) None of these 
+(C)
+
+60. Antivirus software is an example of–
+(A) business software 
+(B) an operating system 
+(C) a security utility
+(D) an office suite 
+(E) None of these 
+(C)
+
+61. Marketing in banks is a necessity today, due to–
+(A) Liberalisation 
+(B) Nationalisation 
+(C) Fashion  
+(D) Urbanisation
+(E) Marketing in banks is not necessary, as banking in India is more than 200 years old 
+(A)
+
+62. The main system board of a computer is called the–
+(A) integrated circuit 
+(B) motherboard 
+(C) processor 
+(D) microchip 
+(E) None of these 
+(B)
+
+63. A(n) ............ backup contains a copy of every program, data, and system file on a computer.
+(A) restoration 
+(B) bootstrap 
+(C) differential 
+(D) full 
+(E) None of these 
+(D)
+
+64. Target group means–
+(A) all employees 
+(B) short-listed group 
+(C) all the marketing staff
+(D) sales representatives 
+(E) group of people likely to buy the identified product 
+(E)
